@@ -4,7 +4,7 @@
 ### Identitas  
 - **Nama** : Adjie Firmansyah  
 - **NPM**  : 4523210004  
-- **Kelas** : (isi sesuai kelasmu)  
+- **Kelas** : P.PBW A
 
 ---
 
@@ -17,6 +17,7 @@
 
 ### Dasar Teori  
 Git adalah **sistem kontrol versi terdistribusi** yang digunakan untuk mencatat setiap perubahan pada file atau project.  
+
 Beberapa konsep utama:  
 - **Repository (Repo)** : Tempat penyimpanan project beserta riwayat perubahannya.  
 - **Commit** : Catatan perubahan yang disimpan ke dalam repository.  
