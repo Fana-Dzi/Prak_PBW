@@ -39,4 +39,5 @@ Beberapa konsep utama:
 
 2. **Code**
     <img width="686" height="124" alt="Image" src="https://github.com/user-attachments/assets/0ed4b76e-d95e-4454-9614-f9191fda2142" />
-   
+    <img width="582" height="161" alt="Image" src="https://github.com/user-attachments/assets/5e54fdc5-5a19-4905-ab53-5f9b2fe69069" />
+    <img width="567" height="265" alt="Image" src="https://github.com/user-attachments/assets/8f560e1c-1e95-48c1-b35c-93905540f94c" />
