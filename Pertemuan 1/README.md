@@ -30,4 +30,9 @@ Beberapa konsep utama:
 
 1. **Membuat Repository Baru**  
    ```bash
-   git init
+   git init (Membuat repository Git baru di lokal)
+   git remote add origin https://github.com/Fana-Dzi/Prak_PBW.git (Menghubungkan repository lokal dengan repository remote di GitHub)
+   git add . (Menambahkan semua file di folder project ke staging area)
+   git commit (Menyimpan perubahan dari staging area ke repository lokal)
+   git branch -m master main (Mengganti nama branch default dari master → main)
+   git push (Mengirim commit dari repository lokal ke repository remote (GitHub)
