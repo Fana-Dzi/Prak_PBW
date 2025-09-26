@@ -37,5 +37,6 @@ Beberapa konsep utama:
    git branch -m master main (Mengganti nama branch default dari master → main)
    git push (Mengirim commit dari repository lokal ke repository remote (GitHub)
 
-   <img width="686" height="124" alt="Image" src="https://github.com/user-attachments/assets/0ed4b76e-d95e-4454-9614-f9191fda2142" />
+2. **Code**
+    <img width="686" height="124" alt="Image" src="https://github.com/user-attachments/assets/0ed4b76e-d95e-4454-9614-f9191fda2142" />
    
