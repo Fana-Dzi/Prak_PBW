@@ -7,14 +7,14 @@
 
 ---
 
-## Tujuan  
+## ✨ Tujuan  
 1. Mengetahui cara instalasi **Laragon** sebagai local development environment.  
 2. Mampu menjalankan web server lokal menggunakan Laragon.  
 3. Menggunakan Laragon untuk pengembangan aplikasi berbasis web (PHP, MySQL, dsb).  
 
 ---
 
-## Dasar Teori  
+## ✨ Dasar Teori  
 Laragon adalah **portable, isolated, fast & powerful universal development environment** untuk PHP, Node.js, Python, Java, Go, Ruby, dll.  
 
 ### Kelebihan Laragon:  
@@ -26,7 +26,7 @@ Laragon adalah **portable, isolated, fast & powerful universal development envir
 
 ---
 
-## Langkah Instalasi  
+## ✨ Langkah Instalasi  
 
 1. **Download Laragon**  
    - Buka [https://laragon.org/download/](https://laragon.org/download/)  
@@ -62,6 +62,7 @@ Laragon adalah **portable, isolated, fast & powerful universal development envir
 
 ---
 
-
+## ✨ Tampilan Aplikasi
+   **Tampilan Awal Form**
 
    
