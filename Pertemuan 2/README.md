@@ -64,5 +64,15 @@ Laragon adalah **portable, isolated, fast & powerful universal development envir
 
 ## ✨ Tampilan Aplikasi
    **Tampilan Awal Form**
+      ![Gambar WhatsApp 2025-09-28 pukul 13 46 19_444387bf](https://github.com/user-attachments/assets/f78e59a6-7efd-48f6-aa0f-f86cfafdf5b1)
+
+
+   **Tampilan Setelah Pendaftaran Berhasil**
+      ![Gambar WhatsApp 2025-09-28 pukul 13 47 38_43c97e36](https://github.com/user-attachments/assets/adf5a718-cd25-4687-b8d8-2942f27d10c1)
+
+
+   **Contoh Pesan Error Validasi**
+      ![Gambar WhatsApp 2025-09-28 pukul 13 48 44_e9dd9771](https://github.com/user-attachments/assets/5634e891-634a-4b40-9ddf-56ba032c87af)
+
 
    
