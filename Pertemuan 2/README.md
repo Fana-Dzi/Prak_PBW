@@ -1,4 +1,4 @@
-# Laporan Instalasi Laragon  
+# Praktikum PHP Dasar Menggunakan Laragon - Form Pendaftaran Event 
 
 ## Identitas  
 - **Nama** : Adjie Firmansyah  
@@ -44,12 +44,24 @@ Laragon adalah **portable, isolated, fast & powerful universal development envir
    - Buka folder `C:\laragon\www\`  
    - Tambahkan folder project, misalnya `prak_pbw`.  
    - Isi dengan file `index.php`.  
-   - Akses di browser: `http://prak_pbw.test`.  
+   - Akses di browser: `[http://localhost/praktikum1/)`.  
 
 ---
 
-## Hasil Instalasi  
+## ✨ Fitur Utama
+- Form pendaftaran dengan field:
+  - Nama Lengkap
+  - Email
+  - Tanggal Lahir (DD-MM-YYYY)
+- Validasi input menggunakan **Regular Expression (Regex)**:
+  - Email harus sesuai format `user@domain.com`
+  - Tanggal lahir harus sesuai format `DD-MM-YYYY`
+- Data peserta tersimpan otomatis ke file `pendaftar.txt`
+- Menampilkan daftar peserta yang sudah mendaftar dalam bentuk tabel
+- Pesan **error** (validasi gagal) dan **success** (pendaftaran berhasil)
 
-Struktur folder project setelah instalasi:  
+---
+
+
 
    
