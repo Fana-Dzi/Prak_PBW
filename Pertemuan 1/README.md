@@ -31,3 +31,5 @@ Beberapa konsep utama:
 1. **Membuat Repository Baru**  
    ```bash
    git init
+   git remote add origin https://github.com/Fana-Dzi/Prak_PBW.git
+   
